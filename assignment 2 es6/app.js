@@ -75,5 +75,5 @@
 
 //arrow function with out parentheses
 
-var x = a => 4 +a;
-console.log(x(1))
+//var x = a => 4 +a;
+//console.log(x(1))
